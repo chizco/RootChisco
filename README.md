@@ -1,5 +1,4 @@
 # RootChisco
-
 # Kingsley Chibuzor | Cybersecurity & Penetration Testing
 
 Self-directed cybersecurity professional focused on 
